@@ -30,4 +30,4 @@ Authors
 
 Anupama Kandala(anupamakandala1111@gmail.com)
 
-Feel free to contact us if you have any questions or feedback on the app.
+Feel free to contact me if you have any questions or feedback on the app.
